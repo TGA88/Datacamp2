@@ -1,2 +1,2 @@
 # Datacamp2
-for sending Datacamp exam or quize
+for sending Datacamp2 exam or quize
